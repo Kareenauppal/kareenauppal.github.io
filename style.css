@@ -40,3 +40,10 @@ font-size: 20px;
 {
 border: 1px solid white;
 }
+
+.main-nav li a:hover
+
+{
+border: 1px solid white;
+
+}
