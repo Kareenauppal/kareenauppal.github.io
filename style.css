@@ -67,14 +67,14 @@ color: white;
 text-transfrom: uppercase;
 font-size: 70px;
 margin-top: 275px;
-text-align: center;
+text-align: left;
 
 }
 
 .button
 {
 margin-top: 50px;
-margin-left: 460px;
+text-align: left;
 
 }
 .btn
