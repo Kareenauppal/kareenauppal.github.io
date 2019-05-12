@@ -53,7 +53,23 @@ height: auto;
 float: left;
 }
 
+.Ottawa
+{
+position: absolute;
+width: 1200px
+margin-left: 0;
+margin-top: 0;
+}
 
+h1
+{
+color: white;
+text-transfrom: uppercase;
+font-size: 70px;
+text-align: center;
+margin-top: 275px;
+
+}
 
 
 
