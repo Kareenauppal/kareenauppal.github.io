@@ -35,3 +35,8 @@ font-family: "Arial", sans-serif;
 font-size: 20px;
 
 }
+
+.main-nav li.active a
+{
+border: 1px solid white;
+}
